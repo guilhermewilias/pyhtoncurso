@@ -5,7 +5,7 @@ print (var_concatenacao) # --> abc
 
 # mais exemplos :
 
-var_a_dez_vezes = 'a' * 10
+var_a_dez_vezes = 'a' * 10 # --> aaaaaaaaaa
 print (var_a_dez_vezes)
 
 var_gui_tres_vezes = 'gui' * 10
